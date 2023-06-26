@@ -1,0 +1,10 @@
+.mylist {
+  list-style: none;
+}
+.hidden {
+  display: none;
+}
+.listitem {
+  display: inline;
+  padding: 20px;
+}
